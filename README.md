@@ -63,9 +63,7 @@ The last step would be seeding, use this command:
 npm run seed
 ```
 
-[Back to the Top](#fitness-tracker)
-
-:computer: To initialize the server, type this command in console, then use the application through brower.
+To initialize the server, type this command in console, then use the application through brower.
 
 ```bash
 npm start
