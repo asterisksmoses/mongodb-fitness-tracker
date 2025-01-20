@@ -94,8 +94,8 @@ function populateChart(data) {
       labels,
       datasets: [
         {
-          label: 'Pounds',
-          data: pounds,
+          label: 'Kilograms',
+          data: kilograms,
           backgroundColor: [
             'rgba(255, 99, 132, 0.2)',
             'rgba(54, 162, 235, 0.2)',
